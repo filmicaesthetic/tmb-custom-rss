@@ -1,6 +1,9 @@
 ## Create more customised Etsy RSS feed
 
-pacman::p_load(dplyr, tidyr, tidyRSS, rvest)
+library(dplyr)
+library(tidyr)
+library(tidyRSS)
+library(rvest)
 
 feed <- tidyfeed("https://www.etsy.com/shop/themushroombabes/rss") |>
   mutate(feed_id = row_number())
