@@ -51,7 +51,7 @@ new_rss_sel <- new_rss |>
   mutate(main_description = gsub("&quot;", '"', main_description)) |>
   select(item_pub_date, item_title, item_link, img, tweet, description = main_description)
 
-write.csv(new_rss_sel, "outputs/rss.csv", row.names = FALSE)
+write.csv(new_rss_sel, "data/rss.csv", row.names = FALSE)
 
 # write.rss function from old version of animation package
 `write.rss` <- function(file = "feed.xml", entry, 
@@ -104,4 +104,4 @@ write.csv(new_rss_sel, "outputs/rss.csv", row.names = FALSE)
 }
 
 # write rss feed
-write.rss(file = "outputs/feed.xml", entry = "outputs/rss.csv")
+write.rss(file = "outputs/feed.xml", entry = "data/rss.csv")
