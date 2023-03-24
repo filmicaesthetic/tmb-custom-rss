@@ -1,5 +1,4 @@
 ## Create more customised Etsy RSS feed
-
 library(dplyr)
 library(tidyr)
 library(tidyRSS)
