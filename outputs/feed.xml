@@ -5,20 +5,12 @@
 		<link>https://www.themushroombabes.co.uk</link>
 		<description>Customised Etsy item feed for The Mushroom Babes</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 20:15:41 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 20:15:41 GMT</lastBuildDate>
+		<pubDate>Sat, 22 Jun 2024 08:17:13 GMT</pubDate>
+		<lastBuildDate>Sat, 22 Jun 2024 08:17:13 GMT</lastBuildDate>
 		<docs>https://www.github.com/filmicaesthetic</docs>
 		<generator>Function write.rss() in R package animation</generator>
 		<managingEditor>@filmicaesthetic</managingEditor>
 		<webMaster>@filmicaesthetic</webMaster>
-		<item>
-			<item_pub_date>2024-06-04 17:10:11</item_pub_date>
-			<item_title>Froggy Food Art Prints A5 by TheMushroomBabes</item_title>
-			<item_link>https://www.etsy.com/listing/1277718210/froggy-food-art-prints-a5?ref=rss</item_link>
-			<img>https://i.etsystatic.com/22674801/r/il/81730e/4152068929/il_794xN.4152068929_4bpw.jpg</img>
-			<tweet>Froggy Food Art Prints A5 | 👉 https://www.etsy.com/listing/1277718210/froggy-food-art-prints-a5?ref=rss</tweet>
-			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/81730e/4152068929/il_794xN.4152068929_4bpw.jpg" border="0" width="570" height="429" /></p><p class="description">Froggy Food Art Prints A5 | 👉 https://www.etsy.com/listing/1277718210/froggy-food-art-prints-a5?ref=rss</p>]]></description>
-		</item>
 		<item>
 			<item_pub_date>2024-06-10 02:30:54</item_pub_date>
 			<item_title>The Frog Dance Art Print A3 / A4 / A5 by TheMushroomBabes</item_title>
@@ -90,6 +82,14 @@
 			<img>https://i.etsystatic.com/22674801/r/il/64a237/4020342471/il_794xN.4020342471_oymg.jpg</img>
 			<tweet>Be Gay Do Crime Art Print A4 / A5 | 👉 https://www.etsy.com/listing/1105732348/be-gay-do-crime-art-print-a4-a5?ref=rss</tweet>
 			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/64a237/4020342471/il_794xN.4020342471_oymg.jpg" border="0" width="570" height="429" /></p><p class="description">Be Gay Do Crime Art Print A4 / A5 | 👉 https://www.etsy.com/listing/1105732348/be-gay-do-crime-art-print-a4-a5?ref=rss</p>]]></description>
+		</item>
+		<item>
+			<item_pub_date>2024-06-21 18:30:13</item_pub_date>
+			<item_title>TATTOO PASS - The Mushroom Babes by TheMushroomBabes</item_title>
+			<item_link>https://www.etsy.com/listing/795924535/tattoo-pass-the-mushroom-babes?ref=rss</item_link>
+			<img>https://i.etsystatic.com/22674801/r/il/64a4d0/2376663207/il_794xN.2376663207_pecj.jpg</img>
+			<tweet>TATTOO PASS | 👉 https://www.etsy.com/listing/795924535/tattoo-pass-the-mushroom-babes?ref=rss</tweet>
+			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/64a4d0/2376663207/il_794xN.2376663207_pecj.jpg" border="0" width="570" height="429" /></p><p class="description">TATTOO PASS | 👉 https://www.etsy.com/listing/795924535/tattoo-pass-the-mushroom-babes?ref=rss</p>]]></description>
 		</item>
 	 </channel>
 </rss>
