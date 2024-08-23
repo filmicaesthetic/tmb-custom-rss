@@ -5,8 +5,8 @@
 		<link>https://www.themushroombabes.co.uk</link>
 		<description>Customised Etsy item feed for The Mushroom Babes</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 11:11:55 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 11:11:55 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Aug 2024 16:18:28 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Aug 2024 16:18:28 GMT</lastBuildDate>
 		<docs>https://www.github.com/filmicaesthetic</docs>
 		<generator>Function write.rss() in R package animation</generator>
 		<managingEditor>@filmicaesthetic</managingEditor>
@@ -42,14 +42,6 @@
 			<img>https://i.etsystatic.com/22674801/r/il/b63827/2891832468/il_794xN.2891832468_hlfx.jpg</img>
 			<tweet>The Mushroom Babes Identification Poster 🍄 A3 / A4 🍄 Mushroom Art Print | 👉 https://www.etsy.com/listing/796282399/the-mushroom-babes-identification-poster?ref=rss</tweet>
 			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/b63827/2891832468/il_794xN.2891832468_hlfx.jpg" border="0" width="570" height="429" /></p><p class="description">The Mushroom Babes Identification Poster 🍄 A3 / A4 🍄 Mushroom Art Print | 👉 https://www.etsy.com/listing/796282399/the-mushroom-babes-identification-poster?ref=rss</p>]]></description>
-		</item>
-		<item>
-			<item_pub_date>2024-08-14 15:44:39</item_pub_date>
-			<item_title>Folklore Snail Art Print A5 / A4 by TheMushroomBabes</item_title>
-			<item_link>https://www.etsy.com/listing/965014367/folklore-snail-art-print-a5-a4?ref=rss</item_link>
-			<img>https://i.etsystatic.com/22674801/r/il/6b052b/2991059108/il_794xN.2991059108_fy0q.jpg</img>
-			<tweet>Folklore Snail Art Print A5 / A4 | 👉 https://www.etsy.com/listing/965014367/folklore-snail-art-print-a5-a4?ref=rss</tweet>
-			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/6b052b/2991059108/il_794xN.2991059108_fy0q.jpg" border="0" width="570" height="429" /></p><p class="description">Folklore Snail Art Print A5 / A4 | 👉 https://www.etsy.com/listing/965014367/folklore-snail-art-print-a5-a4?ref=rss</p>]]></description>
 		</item>
 		<item>
 			<item_pub_date>2024-08-14 15:44:39</item_pub_date>
@@ -90,6 +82,14 @@
 			<img>https://i.etsystatic.com/22674801/r/il/e0cc25/2932967013/il_794xN.2932967013_e4oc.jpg</img>
 			<tweet>The Mushroom Babes A2 XL Identification Poster 🍄 Seconds | 👉 https://www.etsy.com/listing/966219957/the-mushroom-babes-a2-xl-identification?ref=rss</tweet>
 			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/e0cc25/2932967013/il_794xN.2932967013_e4oc.jpg" border="0" width="570" height="429" /></p><p class="description">The Mushroom Babes A2 XL Identification Poster 🍄 Seconds | 👉 https://www.etsy.com/listing/966219957/the-mushroom-babes-a2-xl-identification?ref=rss</p>]]></description>
+		</item>
+		<item>
+			<item_pub_date>2024-08-23 10:04:34</item_pub_date>
+			<item_title>Folklore Snail Art Print A5 / A4 by TheMushroomBabes</item_title>
+			<item_link>https://www.etsy.com/listing/965014367/folklore-snail-art-print-a5-a4?ref=rss</item_link>
+			<img>https://i.etsystatic.com/22674801/r/il/6b052b/2991059108/il_794xN.2991059108_fy0q.jpg</img>
+			<tweet>Folklore Snail Art Print A5 / A4 | 👉 https://www.etsy.com/listing/965014367/folklore-snail-art-print-a5-a4?ref=rss</tweet>
+			<description><![CDATA[<p class="image"><img src="https://i.etsystatic.com/22674801/r/il/6b052b/2991059108/il_794xN.2991059108_fy0q.jpg" border="0" width="570" height="429" /></p><p class="description">Folklore Snail Art Print A5 / A4 | 👉 https://www.etsy.com/listing/965014367/folklore-snail-art-print-a5-a4?ref=rss</p>]]></description>
 		</item>
 	 </channel>
 </rss>
